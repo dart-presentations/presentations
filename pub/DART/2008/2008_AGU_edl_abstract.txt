@@ -1,0 +1,24 @@
+TITLE
+"Theory and Applications of Variational, Sequential and Bayesian 
+Hierarchical Methods in Data Assimilation"
+
+ABSTRACT
+Data assimilation methods that combine observations with dynamical 
+models of the atmosphere and ocean rely on estimating the conditional 
+probability distribution function (PDF) of the dynamical system 
+conditioned on an observed state provided by measurements. 
+Constructing such a PDF is impractical for most problems with high 
+dimensions in the state vector and requires simplifications in the 
+estimations of the conditional PDF. We compare the theories underlying 
+several data assimilation methods (e.g. variational, ensemble, 
+particle, bayesian hierarchical) and show how their estimate of 
+the conditional PDF differs. We also present an example of a 
+variational data assimilation experiment where the ocean surface 
+winds associated with the transit of a hurricane are reconstructed 
+using ocean buoy data.
+
+
+Emanuele Di Lorenzo
+School of Earth and Atmospheric Sciences
+Georgia Institute of Technology
+Atlanta, GA, 30332-0340
